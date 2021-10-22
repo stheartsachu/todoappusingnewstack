@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mdi/font": "^6.3.95",
+    "elm": "^0.19.1-5"
+  },
+  "devDependencies": {
+    "elm-webpack-loader": "^8.0.0"
+  }
+}
